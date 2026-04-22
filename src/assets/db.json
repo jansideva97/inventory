@@ -1,0 +1,738 @@
+{
+  "brands": [
+    {
+      "id": "Dettol",
+      "name": "Dettol"
+    },
+    {
+      "id": "Moov",
+      "name": "Moov"
+    },
+    {
+      "id": "Strepsils",
+      "name": "Strepsils"
+    },
+    {
+      "id": "Itch Guard",
+      "name": "Itch Guard"
+    },
+    {
+      "id": "Veet",
+      "name": "Veet"
+    },
+    {
+      "id": "Gaviscon",
+      "name": "Gaviscon"
+    },
+    {
+      "id": "Durex",
+      "name": "Durex"
+    }
+  
+  ],
+  "products": [
+    {
+      "id": "1",
+      "brand": "Dettol",
+      "name": "Antiseptic Liquid",
+      "packSize": "60 ml",
+      "caseSize": "200",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "2",
+      "brand": "Dettol",
+      "name": "Antiseptic Liquid",
+      "packSize": "125 ml",
+      "caseSize": "96",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "3",
+      "brand": "Dettol",
+      "name": "Antiseptic Liquid",
+      "packSize": "250 ml",
+      "caseSize": "60",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "4",
+      "brand": "Dettol",
+      "name": "Antiseptic Liquid",
+      "packSize": "550 ml",
+      "caseSize": "30",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "5",
+      "brand": "Dettol",
+      "name": "Antiseptic Liquid",
+      "packSize": "1 Ltr",
+      "caseSize": "16",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "6",
+      "brand": "Dettol",
+      "name": "Antiseptic Liquid",
+      "packSize": "5 Ltr",
+      "caseSize": "4",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "7",
+      "brand": "Dettol",
+      "name": "Disinfectant Liquid Lime",
+      "packSize": "200 ml",
+      "caseSize": "48",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "8",
+      "brand": "Dettol",
+      "name": "Disinfectant Liquid Cool",
+      "packSize": "200 ml",
+      "caseSize": "48",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "9",
+      "brand": "Dettol",
+      "name": "Disinfectant Liquid Lime",
+      "packSize": "550 ml",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "10",
+      "brand": "Dettol",
+      "name": "Disinfectant Liquid Cool",
+      "packSize": "550 ml",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "11",
+      "brand": "Dettol",
+      "name": "Disinfectant Liquid Lime",
+      "packSize": "1 Ltr",
+      "caseSize": "12",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "12",
+      "brand": "Dettol",
+      "name": "Disinfectant Liquid Cool",
+      "packSize": "1 Ltr",
+      "caseSize": "12",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "13",
+      "brand": "Dettol",
+      "name": "Disinfectant Liquid Lavendar",
+      "packSize": "1 Ltr",
+      "caseSize": "12",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "14",
+      "brand": "Dettol",
+      "name": "Disinfectant Spray Spring Blossom",
+      "packSize": "225 ml",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "15",
+      "brand": "Dettol",
+      "name": "Disinfectant Spray Orchard Bloom",
+      "packSize": "225 ml",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "16",
+      "brand": "Dettol",
+      "name": "Hand Sanitizer",
+      "packSize": "50 ml",
+      "caseSize": "96",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "17",
+      "brand": "Dettol",
+      "name": "Hand Sanitizer",
+      "packSize": "200 ml",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "18",
+      "brand": "Dettol",
+      "name": "Body Wash Lime Fresh",
+      "packSize": "250 ml",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "19",
+      "brand": "Dettol",
+      "name": "Body Wash Icy Cool",
+      "packSize": "250 ml",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "20",
+      "brand": "Dettol",
+      "name": "Body Wash SKC",
+      "packSize": "250 ml",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "21",
+      "brand": "Dettol",
+      "name": "Kitchen Gel",
+      "packSize": "200 ml",
+      "caseSize": "48",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "22",
+      "brand": "Dettol",
+      "name": "Kitchen Gel",
+      "packSize": "400 ml",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "23",
+      "brand": "Dettol",
+      "name": "Kitchen Gel",
+      "packSize": "500 ml",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "24",
+      "brand": "Dettol",
+      "name": "Kitchen Gel",
+      "packSize": "750 ml",
+      "caseSize": "12",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "25",
+      "brand": "Dettol",
+      "name": "Squeezy",
+      "packSize": "100 ml",
+      "caseSize": "96",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "26",
+      "brand": "Dettol",
+      "name": "Liquid Soap (Pouch Pack of 3) Org",
+      "packSize": "175 ml*3",
+      "caseSize": "20",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "27",
+      "brand": "Dettol",
+      "name": "Liquid Soap (Pouch Pack of 3) Sens",
+      "packSize": "175 ml*3",
+      "caseSize": "20",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "28",
+      "brand": "Dettol",
+      "name": "Liquid Soap (Pouch Pack of 3) SKC",
+      "packSize": "175 ml*3",
+      "caseSize": "20",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "29",
+      "brand": "Dettol",
+      "name": "Liquid Soap (Pump+Pouch) Org",
+      "packSize": "200+175 ml",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "30",
+      "brand": "Dettol",
+      "name": "Liquid Soap (Pump+Pouch) Sens",
+      "packSize": "200+175 ml",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "31",
+      "brand": "Dettol",
+      "name": "Liquid Soap (Pump+Pouch) SKC",
+      "packSize": "200+175 ml",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "32",
+      "brand": "Dettol",
+      "name": "Liquid Soap Org",
+      "packSize": "675 ml",
+      "caseSize": "16",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "33",
+      "brand": "Dettol",
+      "name": "Liquid Soap Sens",
+      "packSize": "675 ml",
+      "caseSize": "16",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "34",
+      "brand": "Dettol",
+      "name": "Liquid Soap SKC",
+      "packSize": "675 ml",
+      "caseSize": "16",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "35",
+      "brand": "Dettol",
+      "name": "Liquid Soap Lime Fresh",
+      "packSize": "675 ml",
+      "caseSize": "16",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "36",
+      "brand": "Dettol",
+      "name": "Liquid Soap Org",
+      "packSize": "875 ml",
+      "caseSize": "16",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "37",
+      "brand": "Dettol",
+      "name": "Liquid Soap",
+      "packSize": "875 ml",
+      "caseSize": "16",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "38",
+      "brand": "Dettol",
+      "name": "Liquid Soap Skc",
+      "packSize": "875 ml",
+      "caseSize": "16",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "39",
+      "brand": "Dettol",
+      "name": "Liquid Soap Org",
+      "packSize": "1350 ml",
+      "caseSize": "8",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "40",
+      "brand": "Dettol",
+      "name": "Liquid Soap Sens",
+      "packSize": "1350 ml",
+      "caseSize": "8",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "41",
+      "brand": "Dettol",
+      "name": "Liquid Soap SKC",
+      "packSize": "1350 ml",
+      "caseSize": "8",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "42",
+      "brand": "Dettol",
+      "name": "Liquid Soap",
+      "packSize": "5 Ltr",
+      "caseSize": "2",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "43",
+      "brand": "Dettol",
+      "name": "Pump BOGO",
+      "packSize": "200 ml*2",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "44",
+      "brand": "Dettol",
+      "name": "Refill BOGO",
+      "packSize": "180 ml*2",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "45",
+      "brand": "Dettol",
+      "name": "Foam STWB",
+      "packSize": "250 ml",
+      "caseSize": "32",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "46",
+      "brand": "Dettol",
+      "name": "Foam ALOCOCO",
+      "packSize": "250 ml",
+      "caseSize": "32",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "47",
+      "brand": "Dettol",
+      "name": "Foam ORCLIL",
+      "packSize": "250 ml",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "48",
+      "brand": "Dettol",
+      "name": "Foaming Handwash STWB (Pump+Pouch)",
+      "packSize": "250 ml + 200 ml",
+      "caseSize": "16",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "49",
+      "brand": "Dettol",
+      "name": "Foaming Handwash ALOCOCO (Pump+Pouch)",
+      "packSize": "250 ml + 200 ml",
+      "caseSize": "16",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "50",
+      "brand": "Dettol",
+      "name": "Foaming Handwash ORCLIL (Pump+Pouch)",
+      "packSize": "250 ml + 200 ml",
+      "caseSize": "16",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "51",
+      "brand": "Dettol",
+      "name": "Foam STWB",
+      "packSize": "700 ml",
+      "caseSize": "16",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "52",
+      "brand": "Dettol",
+      "name": "Foam ALOCOCO",
+      "packSize": "700 ml",
+      "caseSize": "16",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "53",
+      "brand": "Dettol",
+      "name": "Foam ORCLIL",
+      "packSize": "700 ml",
+      "caseSize": "16",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "54",
+      "brand": "Dettol",
+      "name": "DLS Powder",
+      "packSize": "8 gm*3",
+      "caseSize": "480",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "55",
+      "brand": "Dettol",
+      "name": "Soap (Single) Org",
+      "packSize": "40 gm",
+      "caseSize": "400",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "56",
+      "brand": "Dettol",
+      "name": "Soap (Single) Icy Cool",
+      "packSize": "40 gm",
+      "caseSize": "400",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "57",
+      "brand": "Dettol",
+      "name": "Soap (Multipack 3+1) Org",
+      "packSize": "60 gm x 4",
+      "caseSize": "60",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "58",
+      "brand": "Dettol",
+      "name": "Soap (Multipack 3+1) Icy Cool",
+      "packSize": "60 gm x 4",
+      "caseSize": "60",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "59",
+      "brand": "Dettol",
+      "name": "Soap (Single)",
+      "packSize": "75 gm",
+      "caseSize": "240",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "60",
+      "brand": "Dettol",
+      "name": "Soap (Pack of 4)",
+      "packSize": "100 gm",
+      "caseSize": "42",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "61",
+      "brand": "Dettol",
+      "name": "Soap (Pack of 5)",
+      "packSize": "100 gm",
+      "caseSize": "36",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "62",
+      "brand": "Dettol",
+      "name": "Soap (Pack of 4)",
+      "packSize": "150 gm",
+      "caseSize": "30",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "63",
+      "brand": "Dettol",
+      "name": "Wipes (10s/40s/80s)",
+      "packSize": "Pack",
+      "caseSize": "48/24/24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "64",
+      "brand": "Dettol",
+      "name": "Shaving Cream",
+      "packSize": "60+18 gm",
+      "caseSize": "144",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "65",
+      "brand": "Moov",
+      "name": "Cream",
+      "packSize": "5 gm",
+      "caseSize": "736",
+      "currentStock": 1,
+      "orderQty": 1
+    },
+    {
+      "id": "66",
+      "brand": "Moov",
+      "name": "Cream",
+      "packSize": "10 gm",
+      "caseSize": "240",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "67",
+      "brand": "Moov",
+      "name": "Cream",
+      "packSize": "20/30 gm",
+      "caseSize": "240/120",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "68",
+      "brand": "Moov",
+      "name": "Cream",
+      "packSize": "50/75 gm",
+      "caseSize": "72/96",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "69",
+      "brand": "Moov",
+      "name": "Spray",
+      "packSize": "15 gm",
+      "caseSize": "144",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "70",
+      "brand": "Moov",
+      "name": "Spray",
+      "packSize": "35/50/80 gm",
+      "caseSize": "60",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "71",
+      "brand": "Moov",
+      "name": "Cool Gel/Spray",
+      "packSize": "Various",
+      "caseSize": "Various",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "72",
+      "brand": "Strepsils",
+      "name": "Medicated Lozenges",
+      "packSize": "100s",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "73",
+      "brand": "Strepsils",
+      "name": "Medicated Lozenges",
+      "packSize": "200s",
+      "caseSize": "12",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "74",
+      "brand": "Itch Guard",
+      "name": "Cream",
+      "packSize": "5/12/20 gm",
+      "caseSize": "480/240",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "75",
+      "brand": "Veet",
+      "name": "Cream (Standard/Men)",
+      "packSize": "15/30/50/100g",
+      "caseSize": "144/48",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "76",
+      "brand": "Veet",
+      "name": "Cold Wax Strips",
+      "packSize": "4s/8s/20s",
+      "caseSize": "96/48/24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "77",
+      "brand": "Gaviscon",
+      "name": "Liquid",
+      "packSize": "150 ml",
+      "caseSize": "24",
+      "currentStock": 0,
+      "orderQty": 0
+    },
+    {
+      "id": "78",
+      "brand": "Durex",
+      "name": "Condoms",
+      "packSize": "3s / 10s",
+      "caseSize": "162 / 54",
+      "currentStock": 0,
+      "orderQty": 0
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

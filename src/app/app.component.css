@@ -1,0 +1,39 @@
+.app-container { font-family: sans-serif; padding: 15px; max-width: 500px; margin: auto; background: #f8f9fa; min-height: 100vh; }
+
+header { background: white; padding: 15px; border-radius: 12px; margin-bottom: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+h1 { margin: 0 0 15px 0; font-size: 1.4rem; color: #333; text-align: center; }
+
+.pdf-row { display: flex; gap: 8px; margin-bottom: 15px; }
+.pdf-btn { flex: 1; padding: 10px; border: none; border-radius: 6px; font-weight: bold; background: #ddd; font-size: 0.8rem; }
+.pdf-btn.dark { background: #333; color: white; }
+
+.brand-manager { display: flex; gap: 8px; margin-bottom: 15px; }
+.brand-manager input { flex: 1; padding: 10px; border: 1px solid #ddd; border-radius: 6px; }
+.brand-manager button { background: #1a73e8; color: white; border: none; padding: 0 15px; border-radius: 6px; font-weight: bold; }
+
+.selector-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px; }
+.selector-header label { font-size: 0.75rem; font-weight: bold; color: #888; text-transform: uppercase; }
+.del-brand { background: none; border: 1px solid #dc3545; color: #dc3545; font-size: 0.65rem; padding: 2px 8px; border-radius: 4px; text-transform: uppercase; font-weight: bold; }
+select { width: 100%; padding: 12px; border-radius: 8px; border: 1px solid #ddd; background: #fff; font-size: 1rem; }
+
+.add-form { background: white; padding: 15px; border-radius: 12px; margin-bottom: 15px; display: flex; flex-direction: column; gap: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+.form-row { display: flex; gap: 8px; }
+.form-row input { flex: 1; }
+.add-form input { padding: 10px; border: 1px solid #eee; border-radius: 6px; font-size: 1rem; }
+.add-btn { background: #28a745; color: white; border: none; padding: 12px; border-radius: 8px; font-weight: bold; margin-top: 5px; }
+
+.card { background: white; padding: 15px; border-radius: 12px; margin-bottom: 12px; border-left: 5px solid #1a73e8; box-shadow: 0 2px 4px rgba(0,0,0,0.03); }
+.card-header { margin-bottom: 12px; }
+.card-header strong { display: block; font-size: 1.1rem; color: #222; }
+.badge { font-size: 0.8rem; color: #666; background: #f1f3f4; padding: 2px 6px; border-radius: 4px; }
+
+.card-body { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.stock-group { display: flex; flex-direction: column; }
+.stock-group small { font-size: 0.65rem; font-weight: bold; color: #aaa; text-transform: uppercase; }
+.stock-group input { padding: 8px; border: 1px solid #eee; border-radius: 4px; width: 100%; box-sizing: border-box; }
+
+.card-actions { grid-column: span 2; display: flex; gap: 8px; margin-top: 10px; }
+.btn-save { flex: 1; background: #1a73e8; color: white; border: none; padding: 10px; border-radius: 6px; font-weight: bold; }
+.btn-del { width: 40px; background: #fee; color: #d93025; border: 1px solid #fad2cf; border-radius: 6px; font-size: 1.2rem; }
+
+button:active { opacity: 0.7; transform: scale(0.98); }
